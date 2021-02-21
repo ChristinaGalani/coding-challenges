@@ -9,3 +9,5 @@ const washHands = (N, nM) => {
 };
 
 console.log(washHands(8, 7));
+
+module.exports.washHands = washHands;
