@@ -1,7 +1,5 @@
 # Python
 
-##
-
 ## Test
 
 We are using [pytest](https://docs.pytest.org/en/stable/contents.html) to run tests.

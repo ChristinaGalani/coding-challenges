@@ -1,7 +1,5 @@
 # Javascript
 
-##
-
 ## Test
 
 We are using [jest](https://jestjs.io/en/) to run tests.
