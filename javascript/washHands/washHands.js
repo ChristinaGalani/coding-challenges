@@ -8,6 +8,4 @@ const washHands = (N, nM) => {
   return totalHandWashingTime;
 };
 
-console.log(washHands(8, 7));
-
 module.exports.washHands = washHands;
